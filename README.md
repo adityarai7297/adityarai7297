@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Aditya Rai
+# 👋 Hey there, I'm Aditya
 
 ### AI Engineer | Building the Future with LLMs | Ex-Amazon
 
