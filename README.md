@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** passionate about creating intelligent systems centered around **Large Language Models (LLMs)** to simplify and automate every task that can be automated—across all domains. My mission is to push the boundaries of what's possible with AI and make it accessible to everyone. 
+I'm an **AI Engineer** passionate about creating intelligent ***Agentic AI systems***, to simplify and automate every task that can be automated—across all domains. My mission is to push the boundaries of what's possible with AI and make it accessible to everyone. 
 
 Currently, I'm part of a **venture builder** where we're building **vertical AI companies** for various use cases, automating the automatable, one LLM at a time...
 
 ### 🎓 Background
 - **🎓 Master's in Data Science** | Computer Science Graduate
-- **💼 3 years at Amazon** | Fintech Department
-- **🧠 Focus Areas:** LLM Systems, AI Automation, MLOps, Generative AI
+- **💼 3 years at Amazon** | Fintech Department (Machine Learning)
+- **🧠 Focus Areas:** Agentic AI systems, RAG, LLM Systems, AI Automation, MLOps, Generative AI
 
 ## 🛠️ Tech Stack
 
